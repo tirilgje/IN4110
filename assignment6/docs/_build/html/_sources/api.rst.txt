@@ -1,0 +1,4 @@
+Plot covid cases 
+================
+
+.. automodule:: webvisualization
