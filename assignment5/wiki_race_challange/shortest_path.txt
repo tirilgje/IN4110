@@ -1,0 +1,9 @@
+Start url: https://en.wikipedia.org/wiki/Nobel_Prize
+Final url: https://en.wikipedia.org/wiki/Array_data_structure
+Number of articles visited: 4
+Time used: 84.631 sec 
+The full path: 
+   https://en.wikipedia.org/wiki/Nobel_Prize
+   https://en.wikipedia.org/wiki/Free_license
+   https://en.wikipedia.org/wiki/Database
+   https://en.wikipedia.org/wiki/Array_data_structure

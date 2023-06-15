@@ -1,0 +1,8 @@
+Start url: https://en.wikipedia.org/wiki/Nobel_Prize
+Final url: https://en.wikipedia.org/wiki/Natural_science
+Number of articles visited: 3
+Time used: 1.137 sec 
+The full path: 
+   https://en.wikipedia.org/wiki/Nobel_Prize
+   https://en.wikipedia.org/wiki/Chemistry
+   https://en.wikipedia.org/wiki/Natural_science
