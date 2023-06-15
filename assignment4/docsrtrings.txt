@@ -1,0 +1,105 @@
+xxx_color2gray:
+
+
+    """
+    Grayscale image filter.
+    Turn a image of choice given by filename to a grayscale image.
+    Implemented with XXX. 
+    Savnes and returns the transformed image. 
+    -----------------------------------------
+    Arguments:
+        input_filename : str 
+            filename or path to the image 
+        
+        output_filename: str, optinal, default=None 
+            filename or path to the transformed image
+            
+        scale : float, optional, default=None
+            Scale factor to resize image. (e.g. 0.5 halves image dimentions) 
+    
+    Returns: 
+        grayscale_image : numpy ndarray
+            The transformed image with as a numpy array. 
+            
+    -----------------------------------------
+    """
+    
+
+
+xxx_color2sepia:
+
+
+    """
+    Adds sepia filter to the image.
+    Turn a image of choice given by filename to a sepia image.
+    Implemented with XXX. 
+    Savnes and returns the transformed image. 
+    -----------------------------------------
+    Arguments:
+        input_filename : str 
+            filename or path to the image 
+        
+        output_filename: str, optinal, default=None 
+            filename or path to the transformed image
+            
+        scale : float, optional, default=None
+            Scale factor to resize image. (e.g. 0.5 halves image dimentions) 
+        
+        level : float, optional, default=1.0
+            Ammount of sepia-effect added to image. Must be a float between 0 and 1, where 1 is 100%, 0 is 0%.
+    
+    Returns: 
+        grayscale_image : numpy ndarray
+            The transformed image as a numpy array. 
+            
+    -----------------------------------------
+    """
+
+_grayscale:
+
+
+    """
+    Grayscales an RGB-image with XXX implementation. 
+    
+    -----------------------------------------
+    Arguments:
+        orginal_image : numpy ndarray 
+            the orginal image, in RGB, represented as a numpy array
+    
+    Returns: 
+        grayscale_image : numpy ndarray
+            The transformed image, in RGB, represented as a numpy array
+            
+    -----------------------------------------
+    
+    """
+
+_sepia:
+
+
+    """
+    Add sepia filter to a RGB-image with XXX implementation. 
+    
+    -----------------------------------------
+    Arguments:
+        orginal_image : numpy ndarray 
+            the orginal image, in RGB, represented as a numpy array
+        
+        level : float, optional, default=1.0
+            Ammount of sepia-effect added to image. Must be a float between 0 and 1, where 1 is 100%, 0 is 0%.
+    
+    Returns: 
+        grayscale_image : numpy ndarray
+            The transformed image, in RGB, represented as a numpy array
+            
+    -----------------------------------------
+    """
+
+
+
+
+Other commands:
+
+setup for cython: python setup.py build_ext --inplace
+install package: pip install .
+uninstall package: pip unistall instapy

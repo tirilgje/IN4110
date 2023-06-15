@@ -1,0 +1,4 @@
+Timing : python_color2gray
+Average runtime running python_color2gray after 3 runs : 2.097 s
+Timing performed using : time.perf_counter()
+image: 'rain.jpeg' (H, W, C) = (400, 600, 3)
